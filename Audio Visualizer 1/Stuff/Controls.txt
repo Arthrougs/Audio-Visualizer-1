@@ -1,0 +1,10 @@
+Press these buttons to Change the music:
+A: Aero Chord - Break Them
+W: AWOLNATION - Sail
+S: Sia - The Greatest
+L: Overwatch - We Move Together as One
+O: AronChupa - I'm an Albatraoz
+D: Noisestorm - Breakdown VIP
+
+Up Arrow: Add 5 dots
+ 
